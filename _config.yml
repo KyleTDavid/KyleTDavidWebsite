@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "author:"
 #author: laklau
 #keyword: jekyll
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://kyletdavid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: http://kyletdavid.github.io # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  laklau
 
 # Build settings
