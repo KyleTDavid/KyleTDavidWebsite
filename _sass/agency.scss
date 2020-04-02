@@ -330,7 +330,7 @@ section {
     position: relative;
     &:before {
         top: 0;
-        bottom: 0;
+        bottom: 50px;
         position: absolute;
         content: "";
         width: 2px;
