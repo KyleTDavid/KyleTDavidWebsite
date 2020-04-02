@@ -1141,7 +1141,7 @@ img {
           transition: all .2s ease-in-out;
 }
 .img-circle {
-  border-radius: 100%;
+  border-radius: 101%;
 }
 hr {
   margin-top: 40px;
