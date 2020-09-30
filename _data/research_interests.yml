@@ -1,7 +1,7 @@
 - name: "Evolution of Gen(om)e Duplications"
   image: "frogdna_web.gif"
   img-alt: "image description"
-  text: "Gene/genome duplication events are important drivers of molecular novelty and adaptation. However these duplications can also be very traumatic on a molecular and cellular level. While duplication events are well studied in plants, they have received less attention in animals, despite evidence for 100's of whole genome duplication events across the animal tree of life. I am interested in exploring how initial disadvantages to duplication are overcome in animals, as well as what advantages may be conferred over longer timescales."
+  text: "Gene/genome duplication events are important drivers of molecular novelty and adaptation. However these duplications can also be very traumatic on a molecular and cellular level. While duplication events are well studied in plants, they have received less attention in animals, despite evidence for 100s of whole genome duplication events across the animal tree of life. I am interested in exploring how initial disadvantages to duplication are overcome in animals, as well as what advantages may be conferred over longer timescales."
   side: left
 
 - name: "Bioinformatics of Non-models"
