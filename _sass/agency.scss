@@ -134,7 +134,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
-@media(min-width:992px) {
+@media(min-width:768px) {
     .navbar-custom {
         background-color: transparent;
         padding: 25px 0;
@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
 
 // Navbar Change on Scroll
 
-@media(min-width:992px) {
+@media(min-width:768px) {
     .navbar-custom.affix {
         background-color: $gray-darker;
         padding: 10px 0;
@@ -194,7 +194,7 @@ header {
     }
 }
 
-@media(min-width:992px) {
+@media(min-width:768px) {
     header {
         .intro-text {
             padding-top: 225px;
@@ -236,7 +236,7 @@ section {
     }
 }
 
-@media(min-width:992px) {
+@media(min-width:768px) {
     section {
         padding: 150px 0;
     }
@@ -443,7 +443,7 @@ section {
                 width: 150px;
                 height: 150px;
                 left: 50%;
-                top: 150%;
+                bottom: 50%;
                 margin-left: -75px;
                 h4 {
                     font-size: 13px;
