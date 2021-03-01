@@ -459,29 +459,7 @@ section {
     }
 }
 
-@media(min-width:992px) {
-    .timeline {
-        > li {
-            min-height: 150px;
-            .timeline-panel {
-                padding: 0 30px 30px 30px;
-            }
-            .timeline-image {
-                width: 150px;
-                height: 150px;
-                margin-left: -112.5px;
-                h4 {
-                    font-size: 18px;
-                    margin-top: 30px;
-                    line-height: 26px;
-                }
-            }
-            &.timeline-inverted > .timeline-panel {
-                padding: 0 30px 30px 30px;
-            }
-        }
-    }
-}
+
 
 @media(min-width:1200px) {
     .timeline {
