@@ -425,7 +425,7 @@ section {
     }
 }
 
-@media(min-width:992px) {
+@media(min-width:768px) {
     .timeline {
         &:before {
             left: 50%;
@@ -443,7 +443,6 @@ section {
                 width: 150px;
                 height: 150px;
                 left: 50%;
-                bottom: -50%;
                 margin-left: -75px;
                 h4 {
                     font-size: 13px;
