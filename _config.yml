@@ -5,16 +5,14 @@
 
 # Site settings
 
-title: Kyle T. David
-email: kzd0038@auburn.edu
+title: The Halanych Lab
+email: ken@auburn.edu
 description: > # this means to ignore newlines until "author:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Halanych Lab at Auburn University.
 #author: laklau
 #keyword: jekyll
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: http://kyletdavid.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: http://DamienWaits.github.io # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  laklau
 
 # Build settings

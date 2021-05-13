@@ -1,0 +1,53 @@
+- name: "Kenneth M. Halanych"
+  image: "Ken.jpg"
+  img-alt: "image description"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum."
+  side: left
+
+- name: "Candace J. Grimes"
+  image: "Candace.jpg"
+  img-alt: "image description"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
+  side: right
+
+- name: "Michael G. Tassia"
+  image: "Mike.jpg"
+  img-alt: "image description"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
+  side: left
+
+- name: "Kyle T. David"
+  image: "Kyle.jpg"
+  img-alt: "image description"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
+  side: right
+
+- name: "Caitlin Redak"
+  image: "Caitlin.jpg"
+  img-alt: "image description"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
+  side: left
+
+- name: "Oluchi L. Oyekwe"
+  image: "Oluchi.jpg"
+  img-alt: "image description"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
+  side: right
+
+- name: "Yu Sun"
+  image: "Yu.JPG"
+  img-alt: "image description"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
+  side: left
+
+- name: "Kyle B. Donnelly"
+  image: "KyleDon.jpg"
+  img-alt: "image description"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
+  side: right
+
+- name: "Damien S. Waits"
+  image: "Damien.jpg"
+  img-alt: "image description"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
+  side: left
