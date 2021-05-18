@@ -424,7 +424,7 @@ section {
         }
         &.timeline-inverted > .timeline-panel {
             float: right;
-            text-align: center;
+            text-align: left;
             padding: 0 40px 0 130px;
             &:before {
                 border-left-width: 0;
@@ -472,7 +472,7 @@ section {
                 width: 41%;
                 float: left;
                 padding: 0 40px 40px 30px;
-                text-align: center;
+                text-align: left;
             }
             .timeline-image {
                 width: 150px;
@@ -487,7 +487,7 @@ section {
             }
             &.timeline-inverted > .timeline-panel {
                 float: right;
-                text-align: center;
+                text-align: left;
                 padding: 0 40px 40px 30px;
             }
         }
