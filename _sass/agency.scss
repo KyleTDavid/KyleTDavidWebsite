@@ -14,6 +14,28 @@
     font-weight: bold;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'LibreBaskerville';
+    src: url('../assets/fonts/LibreBaskerville-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'LibreBaskerville';
+    src: url('../assets/fonts/LibreBaskerville-Bold.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'LibreBaskerville';    
+    src: url('../assets/fonts/LibreBaskerville-Italics.ttf');
+    font-weight: normal;
+    font-style: italic;
+}
+
 body {
     overflow-x: hidden;
     @include body-font;
