@@ -116,7 +116,6 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-custom {
     background-color: $gray-darker;
     border-color: transparent;
-    float: right;
     .navbar-brand {
         color: $theme-primary;
         @include script-font;
@@ -147,6 +146,7 @@ h1, h2, h3, h4, h5, h6 {
                 @include heading-font;
                 font-weight: 400;
                 letter-spacing: 1px;
+                float: right;
                 color: white;
                 &:hover,
                 &:focus {
