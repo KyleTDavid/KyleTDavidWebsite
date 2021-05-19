@@ -49,9 +49,5 @@
 - name: "Damien S. Waits, M.Sc."
   image: "Damien.jpg"
   img-alt: "image description"
-  text: "Viktoria Bogantes\tUniversity of West Florida\nYuanning Li\t Vanderbilt"
-  side: left
-
-- name: "Past Personnel"
-  text: "Viktoria Bogantes Aguilar \tUniversity of West Florida\nYuanning Li\t Vanderbilt"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit."
   side: left
