@@ -1,10 +1,10 @@
-- name: "Kenneth M. Halanych"
+- name: "Kenneth M. Halanych, Ph.D."
   image: "Ken.jpg"
   img-alt: "image description"
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum."
   side: left
 
-- name: "Candace J. Grimes"
+- name: "Candace J. Grimes, Ph.D."
   image: "Candace.jpg"
   img-alt: "image description"
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
@@ -46,8 +46,8 @@
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
   side: right
 
-- name: "Damien S. Waits"
+- name: "Past Personel"
   image: "Damien.jpg"
   img-alt: "image description"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
-  side: left
+  text: "Viktoria Bogantes\tUniversity of West Florida\nYuanning Li\t Vanderbilt"
+  side: bottom
