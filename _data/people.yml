@@ -50,10 +50,8 @@
   image: "Damien.jpg"
   img-alt: "image description"
   text: "Viktoria Bogantes\tUniversity of West Florida\nYuanning Li\t Vanderbilt"
-  side: middle
+  side: left
 
 - name: "Past Personnel"
-  image: "Damien.jpg"
-  img-alt: "image description"
   text: "Viktoria Bogantes\tUniversity of West Florida\nYuanning Li\t Vanderbilt"
-  side: center
+  side: left
