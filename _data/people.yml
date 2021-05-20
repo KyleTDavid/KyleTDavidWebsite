@@ -13,7 +13,7 @@
 - name: "<a href="https://scholar.google.com/citations?user=dmBl40wAAAAJ&hl=en&oi=ao">Michael G. Tassia>/a>"
   image: "Mike.jpg"
   img-alt: "image description"
-  text: "Mike's dissertation focuses on the evolution of metazoan immune systems. Broadly, he is interested in all the strange, enigmatic marine invertebrates that bend the rules of how we think Biology "ought to work.""
+  text: "Mike's dissertation focuses on the evolution of metazoan immune systems. Broadly, he is interested in all the strange, enigmatic marine invertebrates that bend the rules of how we think Biology 'ought to work.'"
   side: left
 
 - name: "Kyle T. David"
