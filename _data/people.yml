@@ -10,7 +10,7 @@
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
   side: right
 
-- name: "<a href="https://scholar.google.com/citations?user=dmBl40wAAAAJ&hl=en&oi=ao">Michael G. Tassia</a>"
+- name: <a href="https://scholar.google.com/citations?user=dmBl40wAAAAJ&hl=en&oi=ao">Michael G. Tassia</a>
   image: "Mike.jpg"
   img-alt: "image description"
   text: "Mike's dissertation focuses on the evolution of metazoan immune systems. Broadly, he is interested in all the strange, enigmatic marine invertebrates that bend the rules of how we think biology 'ought to work.'"
