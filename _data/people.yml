@@ -4,49 +4,49 @@
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum."
   side: left
 
-- name: "Candace J. Grimes, Ph.D."
+- name: "Candace J. Grimes, Ph.D., Post-Doc"
   image: "Candace.jpg"
   img-alt: "image description"
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
   side: right
 
-- name: <a href="https://scholar.google.com/citations?user=dmBl40wAAAAJ&hl=en&oi=ao">Michael G. Tassia</a>
+- name: <a href="https://scholar.google.com/citations?user=dmBl40wAAAAJ&hl=en&oi=ao">Michael G. Tassia, Ph.D. Candidate</a>
   image: "Mike.jpg"
   img-alt: "image description"
   text: "Mike's dissertation focuses on the evolution of metazoan immune systems. Broadly, he is interested in all the strange, enigmatic marine invertebrates that bend the rules of how we think biology 'ought to work.'"
   side: left
 
-- name: "Kyle T. David"
+- name: <a href="https://kyletdavid.github.io/">Kyle T. David, Ph.D. Candidate</a>
   image: "Kyle.jpg"
   img-alt: "image description"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
+  text: "Kyle's interests broadly encompass large scale patterns of animal evolution but usually involve whole genome duplication events to some extent. He is also interested in computational tools which seek to understand non-model taxa, as well as assess how overreliance on model systems may bias current methods."
   side: right
 
-- name: "Caitlin Redak"
+- name: "Caitlin Redak, Ph.D. Candidate"
   image: "Caitlin.jpg"
   img-alt: "image description"
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
   side: left
 
-- name: "Oluchi L. Oyekwe"
+- name: "Oluchi L. Oyekwe, Ph.D. Student"
   image: "Oluchi.jpg"
   img-alt: "image description"
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
   side: right
 
-- name: "Yu Sun"
+- name: "Yu Sun, Ph.D. Student"
   image: "Yu.JPG"
   img-alt: "image description"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
+  text: "In 2019, Yu began a PhD with Dr. Halanych at Auburn University. Yu graduated from Ocean University of China in 2019 with a master's degree. Her primary research is on the mitochondria of seastars. She is captivated by the evolutionary relationships in echinoderms. She is interested in using molecular and morphological data to investigate the systematics, phylogeography, population genetics, and comparative biology of invertebrate animals."
   side: left
 
-- name: "Kyle B. Donnelly"
+- name: "Kyle B. Donnelly, Master's Student"
   image: "KyleDon.jpg"
   img-alt: "image description"
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
   side: right
 
-- name: "Damien S. Waits, M.Sc."
+- name: "Damien S. Waits, M.Sc., Technician"
   image: "Damien.jpg"
   img-alt: "image description"
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit."
