@@ -4,7 +4,7 @@
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum."
   side: left
 
-- name: "Candace J. Grimes, Ph.D., Post-Doc"
+- name: <a href="https://scholar.google.com/citations?user=73yWhrkAAAAJ&hl=en&oi=ao">Candace J. Grimes, Ph.D., Post-Doc</a>
   image: "Candace.png"
   img-alt: "image description"
   text: "Candace enjoys investigating how marine invertebrates have adapted and evolved to cope with environmental stressors. She is interested in studying these responses at all levels of scale, from genes to geographic distributions."
