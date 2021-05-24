@@ -28,10 +28,10 @@
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
   side: left
 
-- name: "Oluchi L. Oyekwe, Ph.D. Student"
+- name: <a href="https://github.com/clavia96">Oluchi L. Oyekwe, Ph.D. Student</a>
   image: "Oluchi.jpg"
   img-alt: "image description"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
+  text: "Oluchi is broadly interested in using different omics tools to study the interaction (pathogenic and non-pathogenic) between microbes and multicellular organisms as well as understand their roles in different environments."
   side: right
 
 - name: "Yu Sun, M.Sc., Ph.D. Student"
