@@ -1,8 +1,6 @@
 GEM
   remote: https://rubygems.org/
-  specs:
-    spec.add_dependency "bundler", ">= 2.2.10"
-    
+  specs:    
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
     agency-jekyll-theme (0.1.0.1)
