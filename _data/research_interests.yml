@@ -1,17 +1,17 @@
 - name: "Evolution of Gen(om)e Duplications"
-  image: "frogdna_web.gif"
+  image: "polyploid.gif"
   img-alt: "image description"
-  text: "Gene/genome duplication events are important drivers of molecular novelty and adaptation. However these duplications can also be very traumatic on a molecular and cellular level. While duplication events are well studied in plants, they have received less attention in animals, despite evidence for 100s of whole genome duplication events across the animal tree of life. I am interested in exploring how initial disadvantages to duplication are overcome in animals, as well as what advantages may be conferred over longer timescales."
+  text: "Gene and genome duplication events are important drivers of molecular novelty and adaptation. However these duplications can also be very traumatic on a molecular and cellular level, incurring significant fitness costs. I am interested in exploring how these initial disadvantages to duplication are overcome, as well as how duplication events contribute to animal evolution as a whole."
   side: left
 
 - name: "Bioinformatics of Non-models"
   image: "bioinformatics.gif"
   img-alt: "image description"
-  text: "High-throughput sequencing is quickly becoming cheaper and easier to use than ever before. In spite of this, most research efforts are concentrated to just a small number of model organisms. I am interested in computational methods which seek to understand non-model genomes, as well as assess how overreliance on models may be biasing current methods. Interests include: gene prediction & annotation, homology inference, tree-building, and comparative phylogenetic methods. "
+  text: "High-throughput sequencing is quickly becoming cheaper and easier to use than ever before. In spite of this, most research efforts are concentrated to just a small number of model organisms. I am interested in computational methods which seek to understand non-model genomes, as well as assess how overreliance on models may be biasing current methods. Interests include: gene annotation, homology inference, tree-building, and comparative phylogenetic methods. "
   side: right
 
 - name: "Marine Invertebrate Evolution"
-  image: "test.gif"
+  image: "ctenophore.gif"
   img-alt: "image description"
-  text: "“Marine Invertebrate” is a term regularly used to refer to a diverse assemblage of animals with representatives from 32 of the 35 commonly recognized animal phyla. Despite containing most of the morphological and phylogenetic diversity within animals, marine invertebrates represent just a small fraction of molecular studies. If we know more about the surface of the moon than we do about the bottom of the ocean, our knowledge of marine invertebrates is akin to life on other planets. I am interested in studying evolutionary patterns along these branches on the tree of life which have historically been overlooked."
+  text: "“Marine Invertebrate” is a term regularly used to refer to a diverse assemblage of animals with representatives from 32 of the 35 commonly recognized animal phyla. Despite containing most of the morphological and phylogenetic diversity within animals, marine invertebrates represent just a small fraction of molecular studies. I am interested in studying evolutionary patterns along these branches on the tree of life which have historically been overlooked."
   side: left
