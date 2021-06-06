@@ -10,7 +10,7 @@
   text: "High-throughput sequencing is quickly becoming cheaper and easier to use than ever before. In spite of this, most research efforts are concentrated to just a small number of model organisms. I am interested in computational methods which seek to understand non-model genomes, as well as assess how overreliance on models may be biasing current methods. Interests include: gene annotation, homology inference, tree-building, and comparative phylogenetic methods. "
   side: right
 
-- name: "Marine Invertebrate Evolution"
+- name: "Marine Invertebrate Phylogenomics"
   image: "ctenophore.gif"
   img-alt: "image description"
   text: "“Marine Invertebrate” is a term regularly used to refer to a diverse assemblage of animals with representatives from 32 of the 35 commonly recognized animal phyla. Despite containing most of the morphological and phylogenetic diversity within animals, marine invertebrates represent just a small fraction of molecular studies. I am interested in studying evolutionary patterns along these branches on the tree of life which have historically been overlooked."
