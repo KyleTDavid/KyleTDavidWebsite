@@ -723,3 +723,27 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: $theme-primary;
 }
+
+.rowwrapper {
+  flex-direction: row;
+  display: flex; 
+  align-items: center
+}
+
+.columnwrapper {
+  flex-direction: column;
+  display: flex; 
+  align-items: center
+}
+
+.pub {
+	flex-grow: 2;
+}
+
+@media(min-width:768px) {
+	.columnwrapper {
+		flex-direction: row;
+	}
+}
+
+
