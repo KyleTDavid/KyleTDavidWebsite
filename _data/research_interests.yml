@@ -1,17 +1,17 @@
-- name: "Evolution of Gen(om)e Duplications"
-  image: "polyploid.gif"
-  img-alt: "image description"
-  text: "Gene and genome duplication events are important drivers of molecular novelty and adaptation. However these duplications can also be very traumatic on a molecular and cellular level, incurring significant fitness costs. I am interested in exploring how these initial disadvantages to duplication are overcome, as well as how duplication events contribute to animal evolution as a whole."
+- name: "Macroevolution"
+  image: "web1.gif"
+  img-alt: ""
+  text: "The rapid acceleration of both computer processing power and DNA sequencing technology have resulted in a proliferation of large-scale phylogenomic datasets. I seek to harness these data to discover evolutionary patterns and processes by exploring relationships between genotype, phenotype, and environment across the tree of life."
   side: left
 
-- name: "Bioinformatics of Non-models"
-  image: "bioinformatics.gif"
+- name: "Latitudinal Gradients"
+  image: "web2.gif"
   img-alt: "image description"
-  text: "High-throughput sequencing is quickly becoming cheaper and easier to use than ever before. In spite of this, most research efforts are concentrated to just a small number of model organisms. I am interested in computational methods which seek to understand non-model genomes, as well as assess how overreliance on models may be biasing current methods. Interests include: gene annotation, homology inference, tree-building, and comparative phylogenetic methods. "
+  text: "Despite being a computational biologist at heart, I have also been fortunate enough to conduct field research around the globe, from the Galápagos Islands to the Antarctic Circle. I am interested in exploring how biological phenomena such as speciation, extinction, and genome duplication are distributed across earth and how they contribute to the vast disparities between latitudes we observe today."
   side: right
 
-- name: "Marine Invertebrate Phylogenomics"
-  image: "ctenophore.gif"
+- name: "Bioinformatics of Non-models"
+  image: "web3.gif"
   img-alt: "image description"
-  text: "“Marine Invertebrate” is a term regularly used to refer to a diverse assemblage of animals with representatives from 32 of the 35 commonly recognized animal phyla. Despite containing most of the morphological and phylogenetic diversity within animals, marine invertebrates represent just a small fraction of molecular studies. I am interested in studying evolutionary patterns along these branches on the tree of life which have historically been overlooked."
+  text: "DNA sequencing is becoming cheaper and easier to use than ever before. In spite of this, most research efforts are concentrated to just a small number of model organisms. I am interested in computational methods which seek to understand non-model genomes, as well as assess how overreliance on model organisms biases our understanding of evolution and biodiversity."
   side: left
