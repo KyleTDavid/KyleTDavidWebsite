@@ -13,5 +13,5 @@
 - name: "Bioinformatics of Non-models"
   image: "web3.gif"
   img-alt: "image description"
-  text: "DNA sequencing is becoming cheaper and easier to use than ever before. In spite of this, most research efforts are concentrated to just a small number of model organisms. I am interested in computational methods which seek to understand non-model genomes, as well as assess how overreliance on model organisms biases our understanding of evolution and biodiversity."
+  text: "DNA sequencing is becoming cheaper and easier to use than ever before. In spite of this, most research efforts are concentrated to just a small number of model organisms. I am interested in computational methods which seek to understand non-model genomes, as well as employ phylogenetic comparative methods to assess how overreliance on model organisms biases our understanding of evolution and biodiversity."
   side: left
