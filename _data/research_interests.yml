@@ -1,0 +1,17 @@
+- name: "Macroevolution"
+  image: "web1.gif"
+  img-alt: ""
+  text: "The rapid acceleration of both computer processing power and DNA sequencing technology have resulted in a proliferation of large-scale phylogenomic datasets. I seek to harness these data to discover evolutionary patterns and processes by exploring relationships between genotype, phenotype, and environment across the tree of life."
+  side: left
+
+- name: "Latitudinal Gradients"
+  image: "web2.gif"
+  img-alt: "image description"
+  text: "Despite being a computational biologist at heart, I have also been fortunate enough to conduct field research around the globe, from the Galápagos Islands to the Antarctic Circle. I am interested in exploring how biological phenomena such as speciation, extinction, and genome duplication are distributed across earth and how they contribute to the vast disparities between latitudes we observe today."
+  side: right
+
+- name: "Bioinformatics of Non-models"
+  image: "web3.gif"
+  img-alt: "image description"
+  text: "DNA sequencing is becoming cheaper and easier to use than ever before. In spite of this, most research efforts are concentrated to just a small number of model organisms. I am interested in computational methods which seek to understand non-model genomes, as well as employ phylogenetic comparative methods to assess how overreliance on model organisms biases our understanding of evolution and biodiversity."
+  side: left
