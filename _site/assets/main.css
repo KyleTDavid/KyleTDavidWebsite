@@ -2,7 +2,7 @@ body { overflow-x: hidden; font-family: "Roboto Slab", "Helvetica Neue", Helveti
 
 .text-muted { color: white; }
 
-.text-primary { color: #004456; }
+.text-primary { color: #005D72; }
 
 p { font-size: 14px; line-height: 1.75; }
 
@@ -10,9 +10,9 @@ p.large { font-size: 16px; }
 
 a, a:hover, a:focus, a:active, a.active { outline: none; text-decoration: none; }
 
-a { color: #004456; }
+a { color: #005D72; }
 
-a:hover, a:focus, a:active, a.active { color: #001c23; text-decoration: none; }
+a:hover, a:focus, a:active, a.active { color: #00333f; text-decoration: none; }
 
 h1, h2, h3, h4, h5, h6 { font-family: "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 700; }
 
@@ -22,61 +22,61 @@ h1, h2, h3, h4, h5, h6 { font-family: "Avenir", "Helvetica Neue", Helvetica, Ari
 
 .bg-darkest-gray { background-color: #222222; }
 
-.bg-primary { background-color: #004456; }
+.bg-primary { background-color: #005D72; }
 
 .bg-lighter-primary { background-color: #FCFAB0; }
 
-.btn-primary { color: white; background-color: #004456; border-color: #004456; font-family: "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 700; }
+.btn-primary { color: white; background-color: #005D72; border-color: #005D72; font-family: "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 700; }
 
-.btn-primary:focus, .btn-primary.focus { color: white; background-color: #001c23; border-color: black; }
+.btn-primary:focus, .btn-primary.focus { color: white; background-color: #00333f; border-color: black; }
 
-.btn-primary:hover { color: white; background-color: #001c23; border-color: #001419; }
+.btn-primary:hover { color: white; background-color: #00333f; border-color: #002b35; }
 
-.btn-primary:active, .btn-primary.active, .open > .btn-primary.dropdown-toggle { color: white; background-color: #001c23; border-color: #001419; }
+.btn-primary:active, .btn-primary.active, .open > .btn-primary.dropdown-toggle { color: white; background-color: #00333f; border-color: #002b35; }
 
-.btn-primary:active:hover, .btn-primary:active:focus, .btn-primary.focus:active, .btn-primary.active:hover, .btn-primary.active:focus, .btn-primary.active.focus, .open > .btn-primary.dropdown-toggle:hover, .open > .btn-primary.dropdown-toggle:focus, .open > .btn-primary.dropdown-toggle.focus { color: white; background-color: black; border-color: black; }
+.btn-primary:active:hover, .btn-primary:active:focus, .btn-primary.focus:active, .btn-primary.active:hover, .btn-primary.active:focus, .btn-primary.active.focus, .open > .btn-primary.dropdown-toggle:hover, .open > .btn-primary.dropdown-toggle:focus, .open > .btn-primary.dropdown-toggle.focus { color: white; background-color: #00161b; border-color: black; }
 
 .btn-primary:active, .btn-primary.active, .open > .btn-primary.dropdown-toggle { background-image: none; }
 
-.btn-primary.disabled:hover, .btn-primary.disabled:focus, .btn-primary.disabled.focus, .btn-primary[disabled]:hover, .btn-primary[disabled]:focus, .btn-primary.focus[disabled], fieldset[disabled] .btn-primary:hover, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary.focus { background-color: #004456; border-color: #004456; }
+.btn-primary.disabled:hover, .btn-primary.disabled:focus, .btn-primary.disabled.focus, .btn-primary[disabled]:hover, .btn-primary[disabled]:focus, .btn-primary.focus[disabled], fieldset[disabled] .btn-primary:hover, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary.focus { background-color: #005D72; border-color: #005D72; }
 
-.btn-primary .badge { color: #004456; background-color: white; }
+.btn-primary .badge { color: #005D72; background-color: white; }
 
-.btn-xl { color: white; background-color: #004456; border-color: #004456; font-family: "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 700; border-radius: 3px; font-size: 18px; padding: 20px 40px; }
+.btn-xl { color: white; background-color: #005D72; border-color: #005D72; font-family: "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 700; border-radius: 3px; font-size: 18px; padding: 20px 40px; }
 
-.btn-xl:focus, .btn-xl.focus { color: white; background-color: #001c23; border-color: black; }
+.btn-xl:focus, .btn-xl.focus { color: white; background-color: #00333f; border-color: black; }
 
-.btn-xl:hover { color: white; background-color: #001c23; border-color: #001419; }
+.btn-xl:hover { color: white; background-color: #00333f; border-color: #002b35; }
 
-.btn-xl:active, .btn-xl.active, .open > .btn-xl.dropdown-toggle { color: white; background-color: #001c23; border-color: #001419; }
+.btn-xl:active, .btn-xl.active, .open > .btn-xl.dropdown-toggle { color: white; background-color: #00333f; border-color: #002b35; }
 
-.btn-xl:active:hover, .btn-xl:active:focus, .btn-xl.focus:active, .btn-xl.active:hover, .btn-xl.active:focus, .btn-xl.active.focus, .open > .btn-xl.dropdown-toggle:hover, .open > .btn-xl.dropdown-toggle:focus, .open > .btn-xl.dropdown-toggle.focus { color: white; background-color: black; border-color: black; }
+.btn-xl:active:hover, .btn-xl:active:focus, .btn-xl.focus:active, .btn-xl.active:hover, .btn-xl.active:focus, .btn-xl.active.focus, .open > .btn-xl.dropdown-toggle:hover, .open > .btn-xl.dropdown-toggle:focus, .open > .btn-xl.dropdown-toggle.focus { color: white; background-color: #00161b; border-color: black; }
 
 .btn-xl:active, .btn-xl.active, .open > .btn-xl.dropdown-toggle { background-image: none; }
 
-.btn-xl.disabled:hover, .btn-xl.disabled:focus, .btn-xl.disabled.focus, .btn-xl[disabled]:hover, .btn-xl[disabled]:focus, .btn-xl.focus[disabled], fieldset[disabled] .btn-xl:hover, fieldset[disabled] .btn-xl:focus, fieldset[disabled] .btn-xl.focus { background-color: #004456; border-color: #004456; }
+.btn-xl.disabled:hover, .btn-xl.disabled:focus, .btn-xl.disabled.focus, .btn-xl[disabled]:hover, .btn-xl[disabled]:focus, .btn-xl.focus[disabled], fieldset[disabled] .btn-xl:hover, fieldset[disabled] .btn-xl:focus, fieldset[disabled] .btn-xl.focus { background-color: #005D72; border-color: #005D72; }
 
-.btn-xl .badge { color: #004456; background-color: white; }
+.btn-xl .badge { color: #005D72; background-color: white; }
 
 .navbar-custom { background-color: #3B9F94; border-color: transparent; }
 
-.navbar-custom .navbar-brand { color: #004456; font-family: "Avenir", "Helvetica Neue", Helvetica, Arial, cursive; }
+.navbar-custom .navbar-brand { color: #005D72; font-family: "Avenir", "Helvetica Neue", Helvetica, Arial, cursive; }
 
-.navbar-custom .navbar-brand:hover, .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:active, .navbar-custom .navbar-brand.active { color: #001c23; }
+.navbar-custom .navbar-brand:hover, .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:active, .navbar-custom .navbar-brand.active { color: #00333f; }
 
 .navbar-custom .navbar-collapse { border-color: rgba(255, 255, 255, 0.98); }
 
-.navbar-custom .navbar-toggle { background-color: #004456; border-color: #004456; font-family: "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif; color: white; font-size: 12px; }
+.navbar-custom .navbar-toggle { background-color: #005D72; border-color: #005D72; font-family: "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif; color: white; font-size: 12px; }
 
-.navbar-custom .navbar-toggle:hover, .navbar-custom .navbar-toggle:focus { background-color: #004456; }
+.navbar-custom .navbar-toggle:hover, .navbar-custom .navbar-toggle:focus { background-color: #005D72; }
 
 .navbar-custom .nav li a { font-family: "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 400; letter-spacing: 1px; color: white; }
 
-.navbar-custom .nav li a:hover, .navbar-custom .nav li a:focus { color: #004456; outline: none; text-decoration: none; }
+.navbar-custom .nav li a:hover, .navbar-custom .nav li a:focus { color: #005D72; outline: none; text-decoration: none; }
 
-.navbar-custom .navbar-nav > .active > a { border-radius: 0; color: white; background-color: #004456; }
+.navbar-custom .navbar-nav > .active > a { border-radius: 0; color: white; background-color: #005D72; }
 
-.navbar-custom .navbar-nav > .active > a:hover, .navbar-custom .navbar-nav > .active > a:focus { color: white; background-color: #001c23; }
+.navbar-custom .navbar-nav > .active > a:hover, .navbar-custom .navbar-nav > .active > a:focus { color: white; background-color: #00333f; }
 
 @media (min-width: 768px) { .navbar-custom { background-color: transparent; padding: 25px 0; -webkit-transition: padding 0.3s; -moz-transition: padding 0.3s; transition: padding 0.3s; border: none; } .navbar-custom .navbar-brand { font-size: 2em; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; } .navbar-custom .navbar-nav > .active > a { border-radius: 3px; } }
 
@@ -88,7 +88,7 @@ header .intro-text { padding-top: 75px; padding-bottom: 50px; }
 
 header .intro-text .intro-lead-in { font-family: "Didot", "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: italic; font-size: 22px; line-height: 22px; margin-bottom: 25px; }
 
-header .intro-text .intro-heading { font-family: "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 700; font-size: 50px; line-height: 50px; margin-bottom: 12.5px; color: #004456; }
+header .intro-text .intro-heading { font-family: "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 700; font-size: 50px; line-height: 50px; margin-bottom: 12.5px; color: #005D72; }
 
 @media (min-width: 768px) { header .intro-text { padding-top: 225px; padding-bottom: 200px; } header .intro-text .intro-lead-in { font-family: "Didot", "Helvetica Neue", Helvetica, Arial, sans-serif; font-style: italic; font-size: 40px; line-height: 40px; margin-bottom: 25px; } header .intro-text .intro-heading { font-family: "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 700; font-size: 75px; line-height: 75px; margin-bottom: 25px; } }
 
@@ -106,7 +106,7 @@ section h3.section-subheading { font-size: 16px; font-family: "Didot", "Helvetic
 
 #portfolio .portfolio-item .portfolio-link { display: block; position: relative; max-width: 400px; margin: 0 auto; }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover { background: rgba(0, 68, 86, 0.1); position: absolute; width: 100%; height: 100%; opacity: 0; transition: all ease 0.5s; -webkit-transition: all ease 0.5s; -moz-transition: all ease 0.5s; }
+#portfolio .portfolio-item .portfolio-link .portfolio-hover { background: rgba(0, 93, 114, 0.1); position: absolute; width: 100%; height: 100%; opacity: 0; transition: all ease 0.5s; -webkit-transition: all ease 0.5s; -moz-transition: all ease 0.5s; }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover { opacity: 1; }
 
@@ -186,7 +186,7 @@ section#contact .form-group input.form-control { height: auto; }
 
 section#contact .form-group textarea.form-control { height: 236px; }
 
-section#contact .form-control:focus { border-color: #004456; box-shadow: none; }
+section#contact .form-control:focus { border-color: #005D72; box-shadow: none; }
 
 section#contact ::-webkit-input-placeholder { font-family: "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 700; color: #eeeeee; }
 
@@ -208,7 +208,7 @@ ul.social-buttons { margin-bottom: 0; }
 
 ul.social-buttons li a { display: block; height: 50px; width: 50px; border-radius: 100%; font-size: 40px; line-height: 55px; color: white; outline: none; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; }
 
-ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li a:active { background-color: #004456; }
+ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li a:active { background-color: #005D72; }
 
 .btn:focus, .btn:active, .btn.active, .btn:active:focus { outline: none; }
 
@@ -236,7 +236,7 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 
 .portfolio-modal .modal-backdrop { opacity: 0; display: none; }
 
-::-moz-selection { text-shadow: none; background: #004456; }
+::-moz-selection { text-shadow: none; background: #005D72; }
 
 ::selection { text-shadow: none; background: #3B9F94; }
 
@@ -244,17 +244,11 @@ img::selection { background: transparent; }
 
 img::-moz-selection { background: transparent; }
 
-body { webkit-tap-highlight-color: #004456; }
+body { webkit-tap-highlight-color: #005D72; }
 
 .rowwrapper { flex-direction: row; display: flex; align-items: center; }
 
 .columnwrapper { flex-direction: column; display: flex; align-items: center; }
-
-.pub { color: #3B9F94; flex-grow: 2; }
-
-.pub a { color: #004456; text-decoration: none; }
-
-.pub a:hover { color: #F37C20; text-decoration: none; }
 
 @media (min-width: 768px) { .columnwrapper { flex-direction: row; } }
 

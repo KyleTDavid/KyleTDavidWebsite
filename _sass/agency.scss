@@ -741,27 +741,8 @@ body {
   align-items: center
 }
 
-.pub {
-	color:#3B9F94;
-	flex-grow: 2;
-}
-
-.pub a {
-	color: #004456;
-	text-decoration: none; 
-
-}
-
-.pub a:hover {
-	color: #F37C20;
-	text-decoration: none; 
-}
-
-
 @media(min-width:768px) {
 	.columnwrapper {
 		flex-direction: row;
 	}
 }
-
-
